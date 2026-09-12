@@ -35,7 +35,7 @@ def get_db():
         host='localhost',
         port=3306,
         user='root',
-        password='Deepikaaa@12',     # change this to your own MySQL password
+        password='',     # change this to your own MySQL password
         database='caresync'
     )
 
