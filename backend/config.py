@@ -5,9 +5,16 @@
 
 # Application identity
 APP_NAME = "CareSync"
+<<<<<<< HEAD
 APP_VERSION = "1.0.1"
 APP_DESCRIPTION = "Patient portal for hospital and clinic management"
 
+=======
+APP_VERSION = "1.1.0"
+APP_DESCRIPTION = "Patient portal for hospital and clinic management"
+
+
+>>>>>>> ce8fb36e9b3370294a3d3dafc875d8d0d1c2c49b
 # Database connection settings
 # In a real deployment, these values would come from environment variables
 # and would never be written directly into the code.

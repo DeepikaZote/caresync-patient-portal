@@ -77,4 +77,7 @@ def get_role_display_name(role_code: str) -> str:
     
     # Return the matching display name, or 'Unknown Role' as a safe default
     return role_map.get(role_code, "Unknown Role")
+<<<<<<< HEAD
 
+=======
+>>>>>>> ce8fb36e9b3370294a3d3dafc875d8d0d1c2c49b

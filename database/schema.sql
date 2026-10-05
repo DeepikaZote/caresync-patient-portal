@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+=======
+-- =============================================================
+-- CareSync Patient Portal
+-- Database Schema
+-- MySQL 8.0
+-- =============================================================
+
+>>>>>>> ce8fb36e9b3370294a3d3dafc875d8d0d1c2c49b
 CREATE DATABASE IF NOT EXISTS caresync
     CHARACTER SET utf8mb4
     COLLATE utf8mb4_unicode_ci;
@@ -131,3 +140,7 @@ CREATE TABLE IF NOT EXISTS activity_log (
     INDEX idx_log_action (action),
     INDEX idx_log_time (logged_at)
 );
+<<<<<<< HEAD
+=======
+
+>>>>>>> ce8fb36e9b3370294a3d3dafc875d8d0d1c2c49b
